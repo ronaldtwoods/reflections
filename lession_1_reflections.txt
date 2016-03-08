@@ -1,0 +1,12 @@
+it gave me a line by line comparison
+with + and outlining the changes
+
+If you took a wrong turn, version control can help you rewind the clock
+
+The advantages of a manual GIT commit is that you commit when it makes logical sense
+
+Git commits multiple files at the same time becasue files are interdependent
+
+You can use git log and git diff to spot and compare files
+
+YOu can confidently make changes without fera of breaking something becasue you can always revert back to a previous version you have saved!

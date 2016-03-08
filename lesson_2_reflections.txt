@@ -1,0 +1,1 @@
+You initialize the repository so it can be recognized as a git repository
