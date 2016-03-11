@@ -1,3 +1,3 @@
 If it Github automatically upadtes, what you're woking on might not be ready to public view
 
-Forls are for clone repositories on github. Clone is for clone local or from a remote location to local. Branches are for creating additional branches on your tree
+Forks are for clone repositories on Github. Clone is for clone local or from a remote location to local. Branches are for creating additional branches on your tree
